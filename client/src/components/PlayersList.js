@@ -7,7 +7,7 @@ import PlayerCard from "./PlayerCard.js";
 
 import 'semantic-ui-css/semantic.css'; 
 import 'semantic-ui-css/semantic.min.css'; 
-import { Grid, Form, Input, TextArea, Button, Select } from "semantic-ui-react";
+
 
 const PlayersInfoDiv = styled.div`
     display: flex;
